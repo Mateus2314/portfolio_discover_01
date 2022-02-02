@@ -1,5 +1,5 @@
-<p align="center">
-  <img alt="Discover" src=".github/discover-logo.svg" /> 
+<p bgcolor=#4169E1 align="center">
+  <img  alt="Discover" src="https://media.graphcms.com/qqH2ajWpTeRj9iEVVdaQ" /> 
 </p>
 
 <hr />
@@ -14,7 +14,7 @@
 
 
 <h1 align="center">
-  <img src=".assets/banner.png" alt="happy" />
+  <img src="./assets/banner.png" alt="happy" />
 </h1>
 
 ## Tecnologias :computer::
